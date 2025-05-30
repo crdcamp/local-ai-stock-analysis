@@ -1,6 +1,6 @@
 # Local AI Stock Analysis
 
-This project is a small experiment made to summarize headline information for a single stock. It is mainly meant to test efficacy of local AI for unsupervised web-scraping code generation and article summarization.
+This project is a small experiment made to summarize headline information for a single stock. It is mainly meant to test efficacy of local AI for unsupervised web-scraping code generation and article summarization. If the local AI can create a solution without providing a framework, I now have a powerful new tool. If not, then I at least have some knowledge of the ```smolagents``` library for future use.
 
 **Note:** This code requires modern hardware to execute successfully. I am able to run this on a MacBook M4 chip at relatively acceptable speeds. Moreover, the DeepSeek model takes up several gigabytes of storage.
 
@@ -15,4 +15,3 @@ This project is a small experiment made to summarize headline information for a 
 Simply hit "Run All" in ```stock_analysis.ipynb``` and await the results.
 
 ## Conclusion
-

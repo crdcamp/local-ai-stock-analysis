@@ -21,4 +21,3 @@ The model attempts seemingly random methods of extracting the article informatio
 In other words (and unsurprisingly), this is not a viable method for web-scraping, as the model needs far more structure to successfully extract the relevant information. I'd be astounded if this worked in the first place, so we now need to investigate methods of extracting web page content to provide to the model.
 
 In essence, if I determine the extraction method and can feed the data to the model in a structure it likes, then I might be onto something here.
-

@@ -13,3 +13,6 @@ This project is a small experiment made to summarize headline information for a 
 ## Execution
 
 Simply hit "Run All" in ```stock_analysis.ipynb``` and await the results.
+
+## Conclusion
+

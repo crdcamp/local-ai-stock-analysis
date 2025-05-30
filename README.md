@@ -14,4 +14,11 @@ This project is a small experiment made to summarize headline information for a 
 
 Simply hit "Run All" in ```stock_analysis.ipynb``` and await the results.
 
-## Conclusion
+## Conclusions from "Test Web-Scraping Capabilities Without any Framework" Section
+
+The model attempts seemingly random methods of extracting the article information for the given website. The context window also becomes an issue around step 7 or 8 where the model hilariously starts looking up Paris's population density.
+
+In other words (and unsurprisingly), this is not a viable method for web-scraping, as the model needs far more structure to successfully extract the relevant information. I'd be astounded if this worked in the first place, so we now need to investigate methods of extracting web page content to provide to the model.
+
+In essence, if I determine the extraction method and can feed the data to the model in a structure it likes, then I might be onto something here.
+

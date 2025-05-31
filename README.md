@@ -1,6 +1,6 @@
 # Local AI Stock Analysis
 
-This project contains some experiments made to test efficacy of automating web scraping using local AI models using Ollama. This is largely a proof of concept and does not have any practical implementation. Developing this for actual use will require much further study and will be explored in another project.
+This project contains some experiments made to test efficacy of automating web scraping using local AI models with Ollama. This is largely a proof of concept and does not have any practical implementation. Developing this for actual use will require much further study and will be explored in another project.
 
 Essentially, having the ability to web-scrape with local AI carries many implications and seemingly infinite use cases; all of which would require no expenses other than a computational load. Think Crawl4AI with no API usage required.
 

@@ -26,3 +26,9 @@ openpyxl
 
 # Optional: For rate limiting and retry logic
 tenacity
+
+# For code that supplies context
+ollama
+json
+urllib
+re
